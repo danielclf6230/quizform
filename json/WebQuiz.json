@@ -1,0 +1,62 @@
+[
+    {
+        "question": "HTML stands for ___________.",
+        "options": {
+            "a": "Huge Text Machine Language",
+            "b": "HTTP Markup Language",
+            "c": "Hypertext Markup Language",
+            "d": "Hot Tooling Machine Language"
+        },
+        "correct": "c"
+    },
+    {
+        "question": "What is the name of the tag that displays a link that brings the user to another page when clicked?",
+        "options": {
+            "a": "link",
+            "b": "a",
+            "c": "li",
+            "d": "hyperlink"
+        },
+        "correct": "b"
+    },
+    {
+        "question": "What major change came with Web 2.0?",
+        "options": {
+            "a": "Java applets",
+            "b": "Shockwave Flash",
+            "c": "Read-only websites",
+            "d": "Read/write websites"
+        },
+        "correct": "d"
+    },
+    {
+        "question": "Which of the following is an example of a 'client-side' technology?",
+        "options": {
+            "a": "WordPress",
+            "b": "Mozilla Firefox",
+            "c": "MySQL",
+            "d": "NodeJS"
+        },
+        "correct": "b"
+    },
+    {
+        "question": "JavaScript can also be referred to as __________.",
+        "options": {
+            "a": "ECMAScript",
+            "b": "JScript",
+            "c": "Java",
+            "d": "ActionScript"
+        },
+        "correct": "a"
+    },
+    {
+        "question": "JavaScript is considered a ____________ language.",
+        "options": {
+            "a": "platform-dependent",
+            "b": "compile-time",
+            "c": "statically-typed",
+            "d": "run-time"
+        },
+        "correct": "d"
+    }
+]
